@@ -45,10 +45,13 @@ h3 {
   font-size: 30px;
   margin-bottom: 80px;
   text-align: center;
+  letter-spacing: 2px;
+  transition: .5s;
 }
 
 h3:hover {
-  color: #e5e4e2;
+  color: #f8f8ff;
+  letter-spacing: 5px;
 }
 
 button:hover {
