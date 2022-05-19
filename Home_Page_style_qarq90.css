@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 
-p{
+p {
   margin-bottom: 50px;
   text-align: left;
 }
@@ -40,35 +40,40 @@ p{
   color: #e5e4e2;
 }
 
-a{
+a {
   text-decoration: none;
   color: #f8f8ff;
 }
 
-a:hover{
+a:hover {
   color: grey;
 }
 
-svg{
+svg {
   width: 50px;
   height: 50px;
+  margin-left: 20px;
+  padding: 10px;
+  border: 1px white solid;
+  border-radius: 100%;
+  background-color: white;
 }
 
-h3{
+h3 {
   text-align: center;
   font-size: 30px;
 }
 
 /* Home Page Body */
 
-.Main_Img_Content{
+.Main_Img_Content {
   background-color: black;
   padding: 10px 30px 10px 30px;
   border: 1px solid black;
   border-radius: 10%;
 }
 
-.H_Img{
+.H_Img {
   margin: 0;
   padding: 0;
   width: 100%;
@@ -81,12 +86,12 @@ h3{
   margin-top: -5px;
 }
 
-.Contact{
+.Contact {
   margin: 7% 25%;
   text-align: center;
 }
 
-.Dotted_hr{
+.Dotted_hr {
   color: #f8f8ff;
   margin-top: 15%;
   margin-bottom: 15%;
@@ -96,11 +101,11 @@ h3{
   text-align: center;
 }
 
-.logo_main_list{
+.logo_main_list {
   margin-top: 50px;
 }
 
-.logo_list{
-  
+.logo_list {
   display: inline;
+
 }
