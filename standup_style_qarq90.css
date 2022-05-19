@@ -61,14 +61,16 @@ button:hover {
   border-bottom: 2px white solid;
 }
 
-.N_List {
-  padding: 0 0 0 60px;
-  list-style: none;
+.N_List_Links {
+  display: inline-block;
+  margin: 10px 30px 10px 30px;
+  letter-spacing: 2px;
+  transition: .5s;
 }
 
-.N_List_Links {
-  padding: 10px 50px 10px 50px;
-  display: inline-block;
+.N_List_Links:hover {
+  color: #e5e4e2;
+  letter-spacing: 5px;
 }
 
 .N_List_Links:hover {
