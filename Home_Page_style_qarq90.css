@@ -41,6 +41,7 @@ p {
 .N_List_Links:hover {
   color: #e5e4e2;
   letter-spacing: 5px;
+  text-decoration: underline white 1px;
 }
 
 a {
