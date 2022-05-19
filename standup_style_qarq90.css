@@ -158,6 +158,16 @@ button:hover {
   text-align: center;
 }
 
+.Last_Dotted_hr {
+  color: #f8f8ff;
+  margin-top: 2%;
+  margin-bottom: 8%;
+  width: 10%;
+  border: 10px;
+  border-style: none none dotted;
+  text-align: center;
+}
+
 /* Artists Info */
 
 .SU_about {
@@ -172,6 +182,7 @@ button:hover {
 }
 
 .copy {
+  margin-bottom: 0%;
   text-align: left;
 }
 

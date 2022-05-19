@@ -101,8 +101,18 @@ h3 {
   text-align: center;
 }
 
+.Last_Dotted_hr {
+  color: #f8f8ff;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  width: 10%;
+  border: 10px;
+  border-style: none none dotted;
+  text-align: center;
+}
+
 .logo_main_list {
-  margin-top: 50px;
+  text-align: center;
 }
 
 .logo_list {
