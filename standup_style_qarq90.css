@@ -65,11 +65,13 @@ button:hover {
 
 .Nav_Bar {
   border-bottom: 2px white solid;
+  padding: 0 0 0 0;
+  text-align: center;
 }
 
 .N_List_Links {
   display: inline-block;
-  margin: 10px 30px 10px 30px;
+  margin: 10px 25px 10px 25px;
   letter-spacing: 2px;
   transition: .5s;
 }
