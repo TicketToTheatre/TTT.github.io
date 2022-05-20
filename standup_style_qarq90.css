@@ -65,6 +65,10 @@ button:hover {
 
 .Nav_Bar {
   border-bottom: 2px white solid;
+}
+
+.N_List{
+  list-style: none;
   padding: 0 0 0 0;
   text-align: center;
 }
